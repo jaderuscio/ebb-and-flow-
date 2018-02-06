@@ -1,7 +1,9 @@
 # Dao of Design 
 
 ![GitHub Logo](/images/logo.png)
+
 https://github.com/jaderuscio/ebb-and-flow-/blob/master/DAO.png?raw=true
+
 Format: ![Alt Text](url)
 
 
