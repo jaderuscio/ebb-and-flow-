@@ -13,7 +13,7 @@ When it comes to the presentation, CSS is what is used for proper appearance edi
 
 There are many user interfaces out there that people will be viewing from, worry only about the functionally and flexibility in how this will be universally applied. Adaptability is most important.
 
-[GitHub](https://alistapart.com/article/dao)
+[A Dao of Web Design](https://alistapart.com/article/dao)
 
 ## **About the Author**
 
