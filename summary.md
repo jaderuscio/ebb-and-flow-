@@ -15,4 +15,8 @@ There are many user interfaces out there that people will be viewing from, worry
 
 ## **About the Author**
 
+https://github.com/jaderuscio/ebb-and-flow-/blob/master/IMG-0219.png?raw=true
+
+![selfie](https://github.com/jaderuscio/ebb-and-flow-/blob/master/DAO.png?raw=true)
+
 Jade Ruscio is a current Senior and Graphic Design major at Montserrat College of Art in Beverly, MA 
