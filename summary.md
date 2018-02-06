@@ -2,7 +2,7 @@
 
 ![GitHub Logo](/images/logo.png)
 
-Format: ![Alt Text](https://github.com/jaderuscio/ebb-and-flow-/blob/master/DAO.png?raw=true)
+![Alt Text](https://github.com/jaderuscio/ebb-and-flow-/blob/master/DAO.png?raw=true)
 
 
 In the article, Dao of Web Design, by John Allsopp, we are given an introduction to web design by looking through the prism of Tao. Daoism, being the philosophy, like in Buddhism, is a way of living, of being the world, which is where this text comes in. 
