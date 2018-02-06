@@ -1,4 +1,4 @@
-# Dao of Design 
+# **Dao of Design**
 
 ![GitHub Logo](/images/logo.png)
 
@@ -17,3 +17,8 @@ There are many user interfaces out there that people will be viewing from, worry
 http://github.com - automatic!
 https://alistapart.com/article/dao
 [GitHub](http://github.com)
+
+
+## **About the Author**
+
+Jade Ruscio is a current Senior and Graphic Design major at Montserrat College of Art in Beverly, MA 
